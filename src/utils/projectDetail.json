@@ -1,0 +1,374 @@
+[
+    {
+      "id":  0 ,
+      "title": "NDDB renovation of staff quarter, parking area",
+      "description": "Construction of Community Hall and Compound Wall at TP-8, FP-179. \n This project consists Community Hall including Bride and Groom room, Large Kitchen, Dish Wash area, Common toilet for Men and women, Electric Room with Diesel generator with fire safety system as well surrounding Compound wall with Paver block on ground etc.",
+      "price": "3.41 Crore",
+      "address": "NDDB",
+      "city": "Dist. Anand",
+      "country": "Gujarat",
+      "date":"01/06/2020",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb1.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb2.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb3.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb4.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb5.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb6.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb7.jpg"},
+          {
+          "name": "",
+          "detail": "",
+          "imageUrl": "../nddb8.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb9.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb10.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb11.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../nddb12.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb13.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb14.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb15.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb16.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb17.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb18.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb19.jpg"},
+            {
+              "name": "",
+              "detail": "",
+              "imageUrl": "../nddb20.jpg"},
+              {
+                "name": "",
+                "detail": "",
+                "imageUrl": "../nddb21.jpg"},
+              {
+                "name": "",
+                "detail": "",
+                "imageUrl": "../nddb22.jpg"},
+              {
+                "name": "",
+                "detail": "",
+                "imageUrl": "../nddb23.jpg"}
+          ],
+      "facilities": { "bathrooms": "Dish Wash area, Common toilet for Men and women", "parking": "Bride and Groom room, Large Kitchen", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  1 ,
+      "title": "Community Hall and Compound Wall",
+      "description": "Construction of Community Hall and Compound Wall at TP-8, FP-179. \n This project consists Community Hall including Bride and Groom room, Large Kitchen, Dish Wash area, Common toilet for Men and women, Electric Room with Diesel generator with fire safety system as well surrounding Compound wall with Paver block on ground etc.",
+      "price": "3.41 Crore",
+      "address": "Anand Nagarpalika",
+      "city": "Dist. Anand",
+      "country": "Gujarat",
+      "date":"01/06/2020",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../TP1_1.jpg"},
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+            "imageUrl": "../TP1_2.jpg"
+          },
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "",
+            "imageUrl": "../TP1_3.jpg"
+          },
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+            "imageUrl": "../TP1_4.jpg"
+          },
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+            "imageUrl": "../TP1_5.jpg"
+          }],
+      "facilities": {  "parking": "Bride and Groom room, Large Kitchen", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  2,
+      "title": "Shelter House for Urban Homeless ",
+      "description": "This Project consist Buildings like shelter house including  kitchen, dining hall Double level bed and bedroom accessories for 100 People, fire safety, commom toilet bathroom, compound wall and surrounding paver block.",
+      "price": "1.93 Crore",
+      "address": "Anand Nagarpalika",
+      "city": "Dist. Anand",
+      "country": "Gujarat",
+      "date":"25/02/2019",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../ShelterHouse1.jpg"},
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "",
+            "imageUrl": "../ShelterHouse2.jpg"
+          },
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "",
+            "imageUrl": "../ShelterHouse3.jpg"
+          },
+          {
+            "name": "Coastal Breeze Villa",
+            "detail": "",
+            "imageUrl": "../ShelterHouse4.jpg"
+          }],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  3,
+      "title": "Compound wall, landscaping including children play area TP-1",
+      "description": "This Project consist Large Entry gate with security Room, Walking track of paver block, Gazebo, Beautiful Landscaping including Children play area which include high quality play equipment, sitting bench all around garden, Toilet block and large cobblestone parking",
+      "price": "1.10 Crore",
+      "address": "Anand Nagarpalika",
+      "city": "Dist. Anand",
+      "country": "Gujarat",
+      "date":"14/12/2020",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_2.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_3.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_4.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_5.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_6.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_7.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_8.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_9.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_10.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_11.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_12.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_13.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_14.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_15.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_16.jpg"
+          },
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../Garden_17.jpg"
+          }
+          ],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  4,
+      "title": "Police Staff Quarter B-32 & C-01",
+      "description": "",
+      "price": "3.07 Crore",
+      "address": "Umarpada",
+      "city": "Dist. Surat",
+      "country": "Gujarat",
+      "date":"30/11/2014",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../PSQUmarpada.jpg"}
+          ],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  5,
+      "title": "Police Staff Quarter B-24 & C-01",
+      "description": "Construction of PSQ Cat B-24 & C-01 at Vedach, Taluka Jambusar, Dist. Bharuch ",
+      "price": "2.35 Crore",
+      "address": "Vedach",
+      "city": "Ta. Jambusar, Dist. Bharuch,",
+      "country": "Gujarat",
+      "date":"08/07/2015",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../vedach1.jpg"}
+          ],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  6,
+      "title": "Police Staff Quarter B-36 units",
+      "description": "Construction of PSQ Cat B-36 units at Mandvi, Dist. Surat ",
+      "price": "3.22 Crore",
+      "address": "Mandvi",
+      "city": "Dist. Surat",
+      "country": "Gujarat",
+      "date":"08/07/2015",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../mandvi1.jpg"},
+          {
+            "name": "",
+            "detail": "",            
+            "imageUrl": "../mandvi2.jpg"
+          },
+          {
+            "name": "",
+            "detail": "", 
+            "imageUrl": "../mandvi3.jpg"
+          }],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  7,
+      "title": "Vidya Bhavan at Police Training School",
+      "description": "Construction of Vidya Bhavan at Police Training School, SRP Gr-I, Lalbaug, Vadodara Dist. Vadodara (Including Electrification)",
+      "price": "2.20 Crore",
+      "address": "SRP Gr-I, Lalbaug",
+      "city": "Dist. Vadodara",
+      "country": "Gujarat",
+      "date":"30/03/2013",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../vidhyaBhavan1.jpg"}],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+    },
+    {
+      "id":  8,
+      "title": "Multi Purpose Hall with Gymnasim and Canteen",
+      "description": "Construction of Multi Purpose Hall with Gymnasim and Canteen at Police Training  School lalbag Vadodara ",
+      "price": "1.84 Crore",
+      "address": "Police Training School, Lalbaug",
+      "city": "Dist. Vadodara",
+      "country": "Gujarat",
+      "date":"03/10/2012",
+      "image": [
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../hallGymBaroda1.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../hallGymBaroda2.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../hallGymBaroda3.jpg"},
+          {
+            "name": "",
+            "detail": "",
+            "imageUrl": "../hallGymBaroda4.jpg"}
+            
+          ],
+      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+      
+      
+    }
+  ]

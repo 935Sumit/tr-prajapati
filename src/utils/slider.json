@@ -1,0 +1,65 @@
+[
+  {
+    "name": "NDDB Staff Quarter",
+    "price": "3.41 Crore",
+    "detail": "NDDB renovation of staff quarter, parking area ",
+    "image": "./nddb15.jpg",
+    "id":0
+  },
+  {
+    "name": "Community Hall and Compound Wall",
+    "price": "3.41 Crore",
+    "detail": "Community Hall including Bride and Groom room, Large Kitchen, Dish Wash area, Common toilets, Electric Room with Diesel generator with fire safety system etc ",
+    "image": "./TP1_1.jpg",
+    "id":1
+  },
+  {
+    "name": "Shelter House for Urban Homeless",
+    "price": "1.93 Crore",
+    "detail": "Construction of Shelter House for Urban Homeless",
+    "image": "../ShelterHouse1.jpg",
+    "id": 2
+  },
+  {
+    "name": "Anand Nagarpalika Garden",
+    "price": "1.10 Crore",
+    "detail": "Construction Work of Compound Wall, Landscaping, Paver block, Cobblestone, Cement Concrete Road, Entry Gate, Security Room etc.",
+    "image": "../Garden_2.jpg",
+    "id": 3
+  },
+  {
+    "name": "Police Staff Quarter B-32 & C-01",
+    "price": "3.07 Crore",
+    "detail": "Construction of PSQ B-32 & C-01 at Umarpada, District.  Surat ",
+    "image": "../PSQUmarpada.jpg",
+    "id": 4
+  },
+  {
+    "name": "Police Staff Quarter B-24 & C-01",
+    "price": "2.35 Crore",
+    "detail": "Construction of PSQ Cat B-24 & C-01 at Vedach, Taluka Jambusar, Dist. Bharuch",
+    "image": "../vedach1.jpg",
+    "id": 5
+  },
+  {
+    "name": "Police Staff Quarter B-36 units",
+    "price": "3.22 Crore",
+    "detail": "Construction of PSQ B-32 & C-01 at Umarpada, District.  Surat ",
+    "image": "../mandvi1.jpg",
+    "id": 6
+  },
+  {
+    "name": "Vidya Bhavan at Police Training School",
+    "price": "2.20 Crore",
+    "detail": "Construction of Vidya Bhavan at Police Training School, SRP Gr-I, Lalbaug, Vadodara Dist. Vadodara (Including Electrification)",
+    "image": "../vidhyaBhavan1.jpg",
+    "id": 7
+  },
+  {
+    "name": "Multi Purpose Hall with Gymnasim and Canteen",
+    "price": "1.84 Crore",
+    "detail": "Construction of Multi Purpose Hall with Gymnasim and Canteen at Police Training  School lalbag Vadodara",
+    "image": "../hallGymBaroda1.jpg",
+    "id": 8
+  }
+]

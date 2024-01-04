@@ -1,13 +1,22 @@
-import React from 'react'
-import Header from './components/header/header'
+import "./App.css";
+import Project from './components/Project/project'
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { Routes } from 'react-router-dom';
+
+import Home from './components/Home'
 
 
- const App = () => {
+function App() {
   return (
-    <>
-    <Header/>
-    <h1>in app file</h1>
-    </>
-  )
+  <>
+    <Router>
+    <Routes>
+      <Route exact path="/" element={<Home/>} />
+      <Route path="/property/:id" element={<Project/>} />
+    </Routes>
+    </Router>
+  </>
+  );
 }
-export default App
+
+export default App;
