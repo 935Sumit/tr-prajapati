@@ -9,7 +9,7 @@ const Footer = () => {
           {/* <img src="./logo2.png" alt="" width={120} /> */}
           <h2 className="logo"> T. R. Prajapati</h2>
           <span className="secondaryText">
-            Our vision is to to be the industry leader, delivering innovative and sustainable construction solutions<br/> 
+            Our vision is to be the industry leader, delivering innovative and sustainable construction solutions<br/> 
             that inspire and leave a positive impact on communities, guided by integrity, safety, and a commitment to quality. 
             </span>
         </div>

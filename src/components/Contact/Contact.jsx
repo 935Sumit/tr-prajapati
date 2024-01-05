@@ -12,8 +12,9 @@ const Contact = () => {
           <span className="orangeText">Contact Us</span>
           <span className="primaryText">Building Dreams, Creating Impact – Contact Us Today!</span>
           <span className="secondaryText">
-          If you have any inquiries, project proposals, or would like to know more about our services, please reach out to us{" "}.
+          If you have any inquiries, project proposals, or would like to know more about our service. Reach out to us.
           </span>
+
 
           <div className="flexColStart contactModes">
             {/* first row */}

@@ -6,7 +6,11 @@ import propertyData from "../../utils/projectDetail.json";
 import { FaShower } from "react-icons/fa";
 import { AiTwotoneCar } from "react-icons/ai";
 import { MdLocationPin, MdMeetingRoom } from "react-icons/md";
+import { MdEventSeat, MdStar } from 'react-icons/md';
+import { MdFitnessCenter } from 'react-icons/md';
 import { useParams } from 'react-router-dom';
+import { MdFireHydrantAlt, MdElectricBolt } from 'react-icons/md';
+import { MdLocalFlorist } from 'react-icons/md';
 
 import Header from '../Header/Header'
 import Footer from '../Footer/Footer'
@@ -50,6 +54,9 @@ const Project = ({ match }) => {
               <div className="flexColStart r-card">
                 <img class="projectImage"src={card.imageUrl} alt="home"/>
               </div>
+              <div>
+                <p className="secondaryText" style={{ textAlign: "center" }}>{card.detail}</p>
+              </div>
             </SwiperSlide>
           ))}
         </Swiper>
@@ -69,25 +76,71 @@ const Project = ({ match }) => {
               </span>
             <b>Facilities</b>
             <div className="flexStart facilities">
-              {/* bathrooms */}
+            {data?.facilities?.highlight && (
+                  <div className="flexStart facility">
+                    <MdStar size={20} color="#1F3E72" />
+                    <span>{data.facilities.highlight}</span>
+                  </div>
+                )}
 
-              <div className="flexStart facility">
-                <FaShower size={20} color="#1F3E72" />
-                <span>{data?.facilities?.bathrooms} </span>
-              </div>
+              {/* bathrooms */}
+              {data?.facilities?.bathrooms && (
+                <div className="flexStart facility">
+                  <FaShower size={20} color="#1F3E72" />
+                  <span>{data.facilities.bathrooms}</span>
+                </div>
+              )}
 
               {/* parkings */}
-              <div className="flexStart facility">
-                <AiTwotoneCar size={20} color="#1F3E72" />
-                <span>{data?.facilities.parkings} </span>
-              </div>
+              {data?.facilities?.parking && (
+                <div className="flexStart facility">
+                  <AiTwotoneCar size={20} color="#1F3E72" />
+                  <span>{data.facilities.parking}</span>
+                </div>
+              )}
 
               {/* rooms */}
-              <div className="flexStart facility">
-                <MdMeetingRoom size={20} color="#1F3E72" />
-                <span>{data?.facilities.bedrooms} </span>
-              </div>
-              
+              {data?.facilities?.bedrooms && (
+                <div className="flexStart facility">
+                  <MdMeetingRoom size={20} color="#1F3E72" />
+                  <span>{data.facilities.bedrooms}</span>
+                </div>
+              )}
+            {/* halls*/}
+            {data?.facilities?.halls && (
+                  <div className="flexStart facility">
+                    <MdEventSeat size={20} color="#1F3E72" />
+                    <span>{data.facilities.halls}</span>
+                  </div>
+                )}
+            
+            {data?.facilities?.gym && (
+      <div className="flexStart facility">
+        <MdFitnessCenter size={20} color="#1F3E72" />
+        <span>{data.facilities.gym}</span>
+      </div>
+    )}
+
+{data?.facilities?.fireHydrant && (
+      <div className="flexStart facility">
+        <MdFireHydrantAlt size={20} color="#1F3E72" />
+        <span>{data.facilities.fireHydrant}</span>
+      </div>
+    )}
+
+{data?.facilities?.garden && (
+      <div className="flexStart facility">
+        <MdLocalFlorist size={20} color="#1F3E72" />
+        <span>{data.facilities.garden}</span>
+      </div>
+    )}
+    {data?.facilities?.electrification && (
+      <div className="flexStart facility">
+        <MdElectricBolt size={20} color="#1F3E72" />
+        <span>{data.facilities.electrification}</span>
+      </div>
+    )}
+
             </div>
 
             {/* address */}

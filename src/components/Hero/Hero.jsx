@@ -1,6 +1,8 @@
 import "./Hero.css";
 import CountUp from "react-countup";
 import { motion } from "framer-motion";
+import InfiniteTextAnimation from "../InfiniteTextAnimation/InfiniteTextAnimation";
+import ReactTyped from "react-typed";
 const Hero = () => {
   return (
     <section className="hero-wrapper">
@@ -21,18 +23,24 @@ const Hero = () => {
               Approved 
               <br /> Contractor
             </motion.h1>
+            
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Contact us to build your next dream project</span>
-            <span>From societies, community hall, personal house and renovation work...
-            </span>
-            
+          <ReactTyped
+          strings={["Contact us to build your next dream project",
+         "From societies"," community hall"," personal house", "renovation work... "]}
+          typeSpeed={30}
+          loop
+          backSpeed={20}
+          cursorChar=">"
+          showCursor={true}
+        />
           </div>
           
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
               <span>
-              ₹ <CountUp start={200} end={258} duration={4} /> Lakh<span>+ </span>
+              ₹ <CountUp start={300} end={410} duration={4} /> Lakh<span>+ </span>
               </span>
               <span className="secondaryText">Last year turn over</span>
             </div>
@@ -48,7 +56,7 @@ const Hero = () => {
               <span>
                 <CountUp start={0} end={40} duration={4}/> <span>+</span>
               </span>
-              <span className="secondaryText">Projects Completed </span>
+              <span className="secondaryText">&nbsp; &nbsp;Projects Completed </span>
             </div>
           </div>
         </div>

@@ -41,9 +41,9 @@ const Value = () => {
           <span className="primaryText">We believe in quality work</span>
 
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you.
-            <br />
-            We beleive a good blace to live can make your life better
+          Our construction services encompass a spectrum of expertise, from meticulous planning to flawless execution. <br/><br/>
+          Delivering excellence with a focus on quality, timeliness, and client satisfaction. <br/>
+          Your dream project starts here.
           </span>
           <Accordion
             className="accordion"

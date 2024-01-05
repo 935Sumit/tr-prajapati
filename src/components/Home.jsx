@@ -8,6 +8,7 @@ import Residencies from "./Residencies/Residencies";
 import Value from "./Value/Value";
 import Header from './Header/Header'
 import Footer from './Footer/Footer'
+import ScrollUpTransition from './ScrollUpTransition/ScrollUpTransition';
 
 
 const Home = () => {
@@ -17,11 +18,22 @@ const Home = () => {
     <div>
       <div className="white-gradient" />
       <Hero />
-    </div>    
-    <Companies />
-    <Residencies/>
-    <Value/>
-    <Contact/>
+    </div>  
+    <ScrollUpTransition> 
+      <Companies />
+    </ScrollUpTransition> 
+
+     <Residencies/>
+
+    <ScrollUpTransition>
+      <Value/>
+    </ScrollUpTransition>  
+
+    <ScrollUpTransition> 
+     <Contact/>
+    </ScrollUpTransition>
+   
+   
     <Footer/>
     </div>
     </>

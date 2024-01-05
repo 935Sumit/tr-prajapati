@@ -3,7 +3,7 @@
       "id":  0 ,
       "title": "NDDB renovation of staff quarter, parking area",
       "description": "Construction of Community Hall and Compound Wall at TP-8, FP-179. \n This project consists Community Hall including Bride and Groom room, Large Kitchen, Dish Wash area, Common toilet for Men and women, Electric Room with Diesel generator with fire safety system as well surrounding Compound wall with Paver block on ground etc.",
-      "price": "3.41 Crore",
+      "price": "6.50 Crore",
       "address": "NDDB",
       "city": "Dist. Anand",
       "country": "Gujarat",
@@ -19,7 +19,7 @@
             "imageUrl": "../nddb2.jpg"},
           {
             "name": "",
-            "detail": "",
+            "detail": "Kitchen",
             "imageUrl": "../nddb3.jpg"},
           {
             "name": "",
@@ -102,7 +102,9 @@
                 "detail": "",
                 "imageUrl": "../nddb23.jpg"}
           ],
-      "facilities": { "bathrooms": "Dish Wash area, Common toilet for Men and women", "parking": "Bride and Groom room, Large Kitchen", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+      "facilities": { "bathrooms": "Attached bathrooms", "parking": "Shaded parking area", "bedrooms": "Bedrooms",
+       "halls":"Meeting room", "gym": "" , "fireHydrant": "",
+      "garden":"", "electrification":"With electrification"}
     },
     {
       "id":  1 ,
@@ -120,7 +122,7 @@
             "imageUrl": "../TP1_1.jpg"},
           {
             "name": "Coastal Breeze Villa",
-            "detail": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+            "detail": "",
             "imageUrl": "../TP1_2.jpg"
           },
           {
@@ -130,15 +132,17 @@
           },
           {
             "name": "Coastal Breeze Villa",
-            "detail": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+            "detail": "",
             "imageUrl": "../TP1_4.jpg"
           },
           {
             "name": "Coastal Breeze Villa",
-            "detail": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+            "detail": "",
             "imageUrl": "../TP1_5.jpg"
           }],
-      "facilities": {  "parking": "Bride and Groom room, Large Kitchen", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+      "facilities": { "bathrooms": "Common toilet for Men and women", "parking": "Parking area with 60000 block", "bedrooms": "Bride and Groom room",
+       "halls":"Large hall", "gym": "" , "fireHydrant": "fire safety system",
+      "garden":"", "electrification":"Electric Room with Diesel generator"}
     },
     {
       "id":  2,
@@ -169,7 +173,9 @@
             "detail": "",
             "imageUrl": "../ShelterHouse4.jpg"
           }],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+      "facilities": { "bathrooms": " commom toilet bathroom", "parking": "", "bedrooms": "Double level bed and bedroom accessories for 100 People",
+       "halls":"dining hall", "gym": "" , "fireHydrant": "",
+      "garden":"", "electrification":"", "highlight":"Inaugurated by CM Vijay Rupani"}
     },
     {
       "id":  3,
@@ -261,8 +267,10 @@
             "imageUrl": "../Garden_17.jpg"
           }
           ],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
-    },
+          "facilities": { "bathrooms": "", "parking": "", "bedrooms": "Security Room",
+          "halls":"Sitting bench", "gym": "High quality play equipment" , "fireHydrant": "",
+         "garden":"Beautiful Landscaping including Children play area", "electrification":"", "highlight":""}
+      },
     {
       "id":  4,
       "title": "Police Staff Quarter B-32 & C-01",
@@ -278,7 +286,9 @@
             "detail": "",
             "imageUrl": "../PSQUmarpada.jpg"}
           ],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+          "facilities": { "bathrooms": "Attached bathrooms", "parking": "", "bedrooms": "Bedrooms",
+          "halls":"", "gym": "" , "fireHydrant": "",
+         "garden":"", "electrification":"", "highlight":""}
     },
     {
       "id":  5,
@@ -295,7 +305,9 @@
             "detail": "",
             "imageUrl": "../vedach1.jpg"}
           ],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+          "facilities": { "bathrooms": "Attached bathrooms", "parking": "", "bedrooms": "Bedrooms",
+          "halls":"", "gym": "" , "fireHydrant": "",
+         "garden":"", "electrification":"", "highlight":""}
     },
     {
       "id":  6,
@@ -321,7 +333,9 @@
             "detail": "", 
             "imageUrl": "../mandvi3.jpg"
           }],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
+          "facilities": { "bathrooms": "Attached bathrooms", "parking": "", "bedrooms": "Bedrooms",
+          "halls":"", "gym": "" , "fireHydrant": "",
+         "garden":"", "electrification":"", "highlight":""}
     },
     {
       "id":  7,
@@ -337,8 +351,10 @@
             "name": "",
             "detail": "",
             "imageUrl": "../vidhyaBhavan1.jpg"}],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
-    },
+            "facilities": { "bathrooms": "", "parking": "", "bedrooms": "",
+            "halls":"Hall", "gym": "" , "fireHydrant": "",
+           "garden":"", "electrification":"With electrification", "highlight":""}
+       },
     {
       "id":  8,
       "title": "Multi Purpose Hall with Gymnasim and Canteen",
@@ -367,8 +383,9 @@
             "imageUrl": "../hallGymBaroda4.jpg"}
             
           ],
-      "facilities": { "bathrooms": "Double level bed and bedroom accessories for 100 People", "parking": "kitchen, dining hall", "bedrooms": "Bride and Groom room, Electric Room with Diesel generator with fire safety system" }
-      
+          "facilities": { "bathrooms": "", "parking": "", "bedrooms": "Canteen",
+          "halls":"Multi Purpose Hall", "gym": "Gymnasim" , "fireHydrant": "",
+         "garden":"", "electrification":"With electrification", "highlight":""}
       
     }
   ]

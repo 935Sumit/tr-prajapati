@@ -1,0 +1,11 @@
+.scroll-up-item {
+    opacity: 0;
+    transform: translateY(100px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .scroll-up-item.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
