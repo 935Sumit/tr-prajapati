@@ -31,5 +31,18 @@
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.2.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh259/TR-Prajapati.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh259/TR-Prajapati/issues"
+  },
+  "homepage": "https://github.com/yogesh259/TR-Prajapati#readme"
 }
